@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 31.08.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
 #EXTINF:-1,TRT 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
-#EXTINF:-1,ATV
+#EXTINF:-1,ATV HD
 atv_1080p.m3u8?e=1756790751&st=aoiKl2e5xu89WGn39wqsbg&sid=7plihwu3aqtc&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8

@@ -3,23 +3,14 @@
   "timestamp": "2026-09-05T17:20:06.557Z",
   "hashAlgorithm": "xxh3-128",
   "input": {
-    ".gitignore": {
-      "hash": "5859a6809bf5ad2fc8ba19c60e927a7e"
-    },
     ".buildResult/dist/_nuxt/builds/latest.json": {
-      "hash": "576e418dffcdaed2eb2c795a25fb5ee6"
+      "hash": "2d3d54f690eefda055d42150cd76b2de"
     },
     "package.json": {
       "hash": "f06f99dc214ef29770334a51000c411c"
     },
     "config.xml": {
       "hash": "3f3c86fb8d70ac3b5c705f4f734c3ea1"
-    },
-    "dist/_nuxt/BOLfW3Fu-legacy.js": {
-      "hash": "49fb9fc83c691530b9fa7a8811d0351d"
-    },
-    "dist/_nuxt/builds/latest.json": {
-      "hash": "576e418dffcdaed2eb2c795a25fb5ee6"
     },
     "dist/_nuxt/builds/meta/714a2f2a-3668-480c-a433-891578fadc7a.json": {
       "hash": "21bd906fd52d5cc420a89334fe61de25"
@@ -192,14 +183,95 @@
     ".buildResult/package-lock.json": {
       "hash": "71bd73fbf0c6af3efadea0249ab171d5"
     },
+    "dist/_nuxt/builds/meta/c0a869ba-0b97-4195-bccf-deb80a68cba8.json": {
+      "hash": "8b7cca2dc79011c486e3fd8e784c904a"
+    },
+    ".buildResult/dist/_nuxt/CHlZfXyC-legacy.js": {
+      "hash": "305a344648f1eba57473990154773a4e"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/c0a869ba-0b97-4195-bccf-deb80a68cba8.json": {
+      "hash": "8b7cca2dc79011c486e3fd8e784c904a"
+    },
+    ".buildResult/dist/_nuxt/DDnZw76d-legacy.js": {
+      "hash": "5e32272039092b6bae632282088948c2"
+    },
+    ".buildResult/dist/_nuxt/DjCt3Fgz-legacy.js": {
+      "hash": "5d5b224e072dd51f885b6be2531d4018"
+    },
+    "dist/_nuxt/builds/meta/8e6c015f-e2f4-4844-aadb-af3c3e82a9a9.json": {
+      "hash": "a1047be051b463443608bc2008893587"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/8e6c015f-e2f4-4844-aadb-af3c3e82a9a9.json": {
+      "hash": "a1047be051b463443608bc2008893587"
+    },
+    "dist/_nuxt/builds/meta/1f4107bd-f62a-4cec-a8d6-2a2c01280dc2.json": {
+      "hash": "88014884c83498905c99778f3933a570"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/1f4107bd-f62a-4cec-a8d6-2a2c01280dc2.json": {
+      "hash": "88014884c83498905c99778f3933a570"
+    },
+    "dist/_nuxt/builds/meta/adb65aa6-077a-4f66-a8e8-a7d37b6a85ec.json": {
+      "hash": "1240384de2011d70efb7c5ab7d1a6df7"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/adb65aa6-077a-4f66-a8e8-a7d37b6a85ec.json": {
+      "hash": "1240384de2011d70efb7c5ab7d1a6df7"
+    },
+    "dist/_nuxt/builds/meta/3056f987-63e7-4750-aa2d-80d66cbfc679.json": {
+      "hash": "041a3f894920e80a309fb466062b7e55"
+    },
+    ".buildResult/dist/_nuxt/0clSEHQj-legacy.js": {
+      "hash": "f22fb1eef333042d7a510d8e1856c191"
+    },
+    ".buildResult/dist/_nuxt/4aButPIG-legacy.js": {
+      "hash": "59974eb9646dc191d6927090dc5e310f"
+    },
+    ".buildResult/dist/_nuxt/BOLfW3Fu-legacy.js": {
+      "hash": "49fb9fc83c691530b9fa7a8811d0351d"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/3056f987-63e7-4750-aa2d-80d66cbfc679.json": {
+      "hash": "041a3f894920e80a309fb466062b7e55"
+    },
+    ".buildResult/dist/_nuxt/BXepXQ4V-legacy.js": {
+      "hash": "ed7f716b85acbfb758d257e814cbb95c"
+    },
+    ".buildResult/dist/_nuxt/c3J3Lui6-legacy.js": {
+      "hash": "6412d9adfac1b1a8daaaf20c83b232ab"
+    },
+    ".buildResult/dist/_nuxt/DMn7FfXK-legacy.js": {
+      "hash": "d25503c21086481c1efd250ef5816b06"
+    },
+    ".buildResult/dist/_nuxt/dUtKEKho-legacy.js": {
+      "hash": "7dbc059d1e180b86a2a655336ec13b8a"
+    },
+    ".buildResult/dist/200.html": {
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
+    },
+    ".buildResult/dist/404.html": {
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
+    },
+    ".buildResult/dist/favicon.ico": {
+      "hash": "ce92209b30ee360b9c2edc04b3800d88"
+    },
+    ".buildResult/dist/index.html": {
+      "hash": "3792dbc84662b853b852baab55b0b21c"
+    },
+    ".buildResult/dist/_nuxt/builds/meta/a172c6ad-a255-4cf7-953f-ff4e1190ffc3.json": {
+      "hash": "6e5a9a3e55f59f347cbe051bacf03d78"
+    },
     "dist/_nuxt/0clSEHQj-legacy.js": {
       "hash": "f22fb1eef333042d7a510d8e1856c191"
     },
     "dist/_nuxt/4aButPIG-legacy.js": {
       "hash": "59974eb9646dc191d6927090dc5e310f"
     },
-    "dist/_nuxt/builds/meta/c0a869ba-0b97-4195-bccf-deb80a68cba8.json": {
-      "hash": "8b7cca2dc79011c486e3fd8e784c904a"
+    "dist/_nuxt/BOLfW3Fu-legacy.js": {
+      "hash": "49fb9fc83c691530b9fa7a8811d0351d"
+    },
+    "dist/_nuxt/builds/latest.json": {
+      "hash": "2d3d54f690eefda055d42150cd76b2de"
+    },
+    "dist/_nuxt/builds/meta/2dbfb026-be70-4312-8310-c9dc3b48828b.json": {
+      "hash": "6056735e7b3477127de9599066e7fb1e"
     },
     "dist/_nuxt/BXepXQ4V-legacy.js": {
       "hash": "ed7f716b85acbfb758d257e814cbb95c"
@@ -222,83 +294,32 @@
     "dist/_nuxt/dUtKEKho-legacy.js": {
       "hash": "7dbc059d1e180b86a2a655336ec13b8a"
     },
-    ".buildResult/dist/_nuxt/4aButPIG-legacy.js": {
-      "hash": "59974eb9646dc191d6927090dc5e310f"
+    ".buildResult/dist/_nuxt/builds/meta/2dbfb026-be70-4312-8310-c9dc3b48828b.json": {
+      "hash": "6056735e7b3477127de9599066e7fb1e"
     },
-    ".buildResult/dist/_nuxt/CHlZfXyC-legacy.js": {
-      "hash": "305a344648f1eba57473990154773a4e"
-    },
-    ".buildResult/dist/_nuxt/builds/meta/c0a869ba-0b97-4195-bccf-deb80a68cba8.json": {
-      "hash": "8b7cca2dc79011c486e3fd8e784c904a"
-    },
-    ".buildResult/dist/_nuxt/DDnZw76d-legacy.js": {
-      "hash": "5e32272039092b6bae632282088948c2"
-    },
-    ".buildResult/dist/_nuxt/DjCt3Fgz-legacy.js": {
-      "hash": "5d5b224e072dd51f885b6be2531d4018"
-    },
-    "dist/_nuxt/builds/meta/8e6c015f-e2f4-4844-aadb-af3c3e82a9a9.json": {
-      "hash": "a1047be051b463443608bc2008893587"
-    },
-    ".buildResult/dist/_nuxt/builds/meta/8e6c015f-e2f4-4844-aadb-af3c3e82a9a9.json": {
-      "hash": "a1047be051b463443608bc2008893587"
-    },
-    ".buildResult/update.js": {
-      "hash": "7179b9fdaed6e677e72d4d0a0bdc89e3"
-    },
-    "dist/_nuxt/builds/meta/1f4107bd-f62a-4cec-a8d6-2a2c01280dc2.json": {
-      "hash": "88014884c83498905c99778f3933a570"
+    "dist/_nuxt/builds/meta/22de7217-e52e-4c49-9041-f5c33e35984c.json": {
+      "hash": "c038c280debb19fdce0a72cf39179bcd"
     },
     "dist/200.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
     },
     "dist/404.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
     },
     "dist/favicon.ico": {
       "hash": "ce92209b30ee360b9c2edc04b3800d88"
     },
     "dist/index.html": {
-      "hash": "e827dbacb6ba817a45625f3e225cb229"
+      "hash": "3792dbc84662b853b852baab55b0b21c"
     },
     "dist/robots.txt": {
       "hash": "23607c44b4341e3af7e764fe53d88f0c"
     },
-    ".buildResult/dist/_nuxt/0clSEHQj-legacy.js": {
-      "hash": "f22fb1eef333042d7a510d8e1856c191"
+    ".buildResult/dist/_nuxt/builds/meta/22de7217-e52e-4c49-9041-f5c33e35984c.json": {
+      "hash": "c038c280debb19fdce0a72cf39179bcd"
     },
-    ".buildResult/dist/_nuxt/BOLfW3Fu-legacy.js": {
-      "hash": "49fb9fc83c691530b9fa7a8811d0351d"
-    },
-    ".buildResult/dist/_nuxt/builds/meta/1f4107bd-f62a-4cec-a8d6-2a2c01280dc2.json": {
-      "hash": "88014884c83498905c99778f3933a570"
-    },
-    ".buildResult/dist/_nuxt/BXepXQ4V-legacy.js": {
-      "hash": "ed7f716b85acbfb758d257e814cbb95c"
-    },
-    ".buildResult/dist/_nuxt/c3J3Lui6-legacy.js": {
-      "hash": "6412d9adfac1b1a8daaaf20c83b232ab"
-    },
-    ".buildResult/dist/_nuxt/DMn7FfXK-legacy.js": {
-      "hash": "d25503c21086481c1efd250ef5816b06"
-    },
-    ".buildResult/dist/_nuxt/dUtKEKho-legacy.js": {
-      "hash": "7dbc059d1e180b86a2a655336ec13b8a"
-    },
-    ".buildResult/dist/200.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
-    },
-    ".buildResult/dist/404.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
-    },
-    ".buildResult/dist/favicon.ico": {
-      "hash": "ce92209b30ee360b9c2edc04b3800d88"
-    },
-    ".buildResult/dist/index.html": {
-      "hash": "e827dbacb6ba817a45625f3e225cb229"
-    },
-    ".buildResult/icon.png": {
-      "hash": "1a426fbb8d27a3d3d797ae8415546bde"
+    ".gitignore": {
+      "hash": "5859a6809bf5ad2fc8ba19c60e927a7e"
     }
   },
   "output": {
@@ -321,13 +342,13 @@
       "hash": "a3f5c19de0966837714d084a841e1a44"
     },
     "Debug/projects/iptv/dist/200.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
     },
     "Debug/projects/iptv/dist/404.html": {
-      "hash": "a60ff2f946d0148192b369aa071496a2"
+      "hash": "9ad112a93816c6e0281ff321f35cfe33"
     },
     "Debug/projects/iptv/dist/_nuxt/builds/latest.json": {
-      "hash": "576e418dffcdaed2eb2c795a25fb5ee6"
+      "hash": "2d3d54f690eefda055d42150cd76b2de"
     },
     "Debug/projects/iptv/dist/_nuxt/builds/meta/68b49ef9-9467-4067-9857-c315d9761927.json": {
       "hash": "eda5e7a133283f94318d88d1501051ea"
@@ -357,7 +378,7 @@
       "hash": "ce92209b30ee360b9c2edc04b3800d88"
     },
     "Debug/projects/iptv/dist/index.html": {
-      "hash": "e827dbacb6ba817a45625f3e225cb229"
+      "hash": "3792dbc84662b853b852baab55b0b21c"
     },
     "Debug/projects/iptv/dist/robots.txt": {
       "hash": "23607c44b4341e3af7e764fe53d88f0c"
@@ -5198,12 +5219,6 @@
     "Debug/projects/iptv/node_modules/zod/v4/locales/zh-TW.js": {
       "hash": "aefe00d62312eae8133cfadc8bddf530"
     },
-    "Debug/projects/iptv/package-lock.json": {
-      "hash": "71bd73fbf0c6af3efadea0249ab171d5"
-    },
-    "Debug/projects/iptv/package.json": {
-      "hash": "f06f99dc214ef29770334a51000c411c"
-    },
     "Debug/projects/iptv/node_modules/puppeteer/install.mjs": {
       "hash": "7afe46d93f06fb26c58b0bcc1893ca05"
     },
@@ -7223,9 +7238,6 @@
     "Debug/projects/iptv/icon.png": {
       "hash": "1a426fbb8d27a3d3d797ae8415546bde"
     },
-    "Debug/projects/iptv/update.js": {
-      "hash": "7179b9fdaed6e677e72d4d0a0bdc89e3"
-    },
     "Debug/projects/iptv/node_modules/zod/index.d.cts": {
       "hash": "a35c1b81aa4e197bee807e7d3fc9b28d"
     },
@@ -7234,6 +7246,24 @@
     },
     "Debug/projects/iptv/node_modules/zod/LICENSE": {
       "hash": "b2c417b803b47340e1e1cfc087a28291"
+    },
+    "Debug/projects/iptv/.gitignore": {
+      "hash": "5859a6809bf5ad2fc8ba19c60e927a7e"
+    },
+    "Debug/projects/iptv/dist/_nuxt/builds/meta/2dbfb026-be70-4312-8310-c9dc3b48828b.json": {
+      "hash": "6056735e7b3477127de9599066e7fb1e"
+    },
+    "Debug/projects/iptv/package-lock.json": {
+      "hash": "71bd73fbf0c6af3efadea0249ab171d5"
+    },
+    "Debug/projects/iptv/package.json": {
+      "hash": "f06f99dc214ef29770334a51000c411c"
+    },
+    "Debug/projects/iptv/update.js": {
+      "hash": "7179b9fdaed6e677e72d4d0a0bdc89e3"
+    },
+    "Debug/projects/iptv/dist/_nuxt/builds/meta/22de7217-e52e-4c49-9041-f5c33e35984c.json": {
+      "hash": "c038c280debb19fdce0a72cf39179bcd"
     }
   }
 }

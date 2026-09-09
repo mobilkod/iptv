@@ -4,7 +4,7 @@
   "description": "📺 IPTV for Samsung Tizen <p align=\"center\"> <strong>IPTV Player for Samsung Tizen TVs</strong> </p> <p align=\"center\"> Xtream Codes • M3U • M3U8 • HLS • Remote Control </p> <p align=\"center\"> <img src=\"https://img.shields.io/badge/platform-Samsung%20Tizen-00A4EF?style=flat-square\" alt=\"Samsung Tizen\"> </p>",
   "main": "index.js",
   "scripts": {
-      "start": "rm -rf /tmp/iptv-tizen-build ./Debug && tizen uninstall -p Vk7ES0fDwd.iptv && tizen build-web -out /tmp/iptv-tizen-build && tizen package -t wgt -s mobilkod -o ./Debug && tizen install -n ./Debug/iptv.wgt && sdb shell 0 debug Vk7ES0fDwd.iptv",
+    "start": "rm -rf /tmp/iptv-tizen-build ./Debug && tizen uninstall -p Vk7ES0fDwd.iptv && tizen build-web && tizen package -t wgt -s mobilkod -o ./Debug && tizen install -n ./Debug/iptv.wgt && sdb shell 0 debug Vk7ES0fDwd.iptv",
     "debug": "sdb shell 0 debug Vk7ES0fDwd.iptv"
   },
   "repository": {

@@ -57,7 +57,7 @@ excludes:
   - \.wgt
   - tizen_web_project.yaml
   - webUnitTest/*
-  - \.git
+  - \.git/.*
 
 # project dependencies
 deps: []

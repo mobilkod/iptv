@@ -9383,14 +9383,6 @@
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/package-lock.json",
-        "type": "add"
-      },
-      {
-        "path": "Debug/projects/iptv/package.json",
-        "type": "add"
-      },
-      {
         "path": "Debug/projects/iptv/dist/_nuxt/0clSEHQj-legacy.js",
         "type": "add"
       },
@@ -9428,10 +9420,6 @@
       },
       {
         "path": "Debug/projects/iptv/dist/_nuxt/dUtKEKho-legacy.js",
-        "type": "add"
-      },
-      {
-        "path": "Debug/projects/iptv/icon.png",
         "type": "add"
       },
       {
@@ -9511,23 +9499,47 @@
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/node_modules/zod/index.d.cts",
+        "path": "Debug/projects/iptv/dist/_nuxt/builds",
+        "type": "modify"
+      },
+      {
+        "path": "Debug/projects/iptv/.gitignore",
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/node_modules/zod/index.js",
+        "path": "Debug/projects/iptv/dist/_nuxt/builds/meta/2dbfb026-be70-4312-8310-c9dc3b48828b.json",
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/node_modules/zod/LICENSE",
+        "path": "Debug/projects/iptv/dist/_nuxt/builds/meta/57116d23-2c8b-4fdd-b86a-9a912d209af1.json",
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/node_modules/zod/v4-mini",
+        "path": "Debug/projects/iptv/node_modules/puppeteer-core/lib/puppeteer/common",
+        "type": "modify"
+      },
+      {
+        "path": "Debug/projects/iptv/node_modules/puppeteer-core/lib/puppeteer/generated",
+        "type": "modify"
+      },
+      {
+        "path": "Debug/projects/iptv/node_modules/puppeteer-core/lib/puppeteer/injected",
+        "type": "modify"
+      },
+      {
+        "path": "Debug/projects/iptv/node_modules/puppeteer-core/lib/puppeteer/util",
+        "type": "modify"
+      },
+      {
+        "path": "Debug/projects/iptv/package-lock.json",
         "type": "add"
       },
       {
-        "path": "Debug/projects/iptv/update.js",
+        "path": "Debug/projects/iptv/package.json",
+        "type": "add"
+      },
+      {
+        "path": "Debug/projects/iptv/dist/_nuxt/builds/meta/22de7217-e52e-4c49-9041-f5c33e35984c.json",
         "type": "add"
       }
     ]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget
+    xmlns="http://www.w3.org/ns/widgets"
+    xmlns:tizen="http://tizen.org/ns/widgets"
+    id="http://mobilkod.com/iptv"
+    version="0.0.1"
+    viewmodes="maximized">
+    <name>iptv</name>
+
+    <icon src="icon.png"/>
+
+    <content src="dist/index.html"/>
+
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+
+    <tizen:setting
+        screen-orientation="landscape"
+        context-menu="enable"
+        background-support="disable"
+        encryption="disable"
+        install-location="auto"
+        hwkey-event="enable"
+        rendering-engine="gpu"
+    />
+
+    <tizen:application
+        id="Vk7ES0fDwd.iptv"
+        package="Vk7ES0fDwd"
+        required_version="2.3"/>
+
+    <!-- Samsung TV -->
+    <tizen:profile name="tv-samsung"/>
+
+    <!-- Network -->
+    <access origin="*" subdomains="true"/>
+
+    <tizen:privilege name="http://tizen.org"/>
+    
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:privilege name="http://developer.samsung.com/privilege/tv.inputdevice"/>
+
+    
+    <!-- Prelaunch -->
+    <tizen:metadata
+        key="http://samsung.com/tv/metadata/prelaunch.support"
+        value="true"/>
+
+    <!-- TV base resolution -->
+    <tizen:metadata
+        key="http://tizen.org/metadata/app_ui_type/base_screen_resolution"
+        value="extensive"/>
+
+</widget>

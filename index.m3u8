@@ -13,12 +13,10 @@ https://corestream.ardastream.live//tabii1/tracks-v1a1/mono.m3u8
 https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat Wild
-
-https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789025756~exp=1789047356~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789036551102~hmac=ba0a2ec7e0f229518e7c01dcd046ebeee87214d115fa56367cd968502d91a2b4/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
+https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789063879~exp=1789085479~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789074678255~hmac=fca26cbd6e46ec77a546f6ce9fa16edb074adb26bdef9c7682618b054d80e9dd/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1172121&extension=m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat
-https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=tVRoj0xnaiB2jHJxfNCovQ&e=1789063060&userid=md99849202
-https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788891193~exp=1788912793~acl=/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788901994734~hmac=94dd0cb6e031fd1dac308d78b3d3483ac76ea6da5d49c84d4adb76529c7d54f1/bc/natgeo/natgeo_fmp4.isml/playlist.mpd
+https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=buyGARkafQPCQfkkP86vgg&e=1789150325&userid=md99849202
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Bbc Earth
 https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=DUtwplfrmLKUpI_7XAqwsQ&e=1789063142&userid=md99849202
 https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=6mslINh9bYR5JTDUEP6isw&e=1788979608&userid=md99849202

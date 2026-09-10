@@ -1,19 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bein" group-title="Spor",Bein 1
+#EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein 1
 https://corestream.d72377a9ds0ec71.cfd//hls/bein1.m3u8
 https://corestream.d72377a9ds0ec71.cfd//beintv/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//hls/bein1.m3u8
-#EXTINF:-1 tvg-name="Bein" group-title="Spor",Bein 3
+#EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein 3
 https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="tabii1" group-title="Sport",tabii1
+#EXTINF:-1 tvg-name="tabii1" group-title="SPOR",tabii1
 https://corestream.d72377a9ds0ec71.cfd//tabii1/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//tabii1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="s-sport" group-title="Sport",s-sport
+#EXTINF:-1 tvg-name="s-sport" group-title="SPOR",s-sport
 https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat Wild
-https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788976613~exp=1788998213~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788987458222~hmac=87f3b5c3aa23c0d00885bc38413d0daeaf86d03f41c3f4dfeb6ae445e8dafe20/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
+
+https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789025756~exp=1789047356~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789036551102~hmac=ba0a2ec7e0f229518e7c01dcd046ebeee87214d115fa56367cd968502d91a2b4/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1172121&extension=m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat
 https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=tVRoj0xnaiB2jHJxfNCovQ&e=1789063060&userid=md99849202
@@ -24,7 +25,7 @@ https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=6
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Bein iz
 https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788976781~exp=1788998381~acl=*/bc/beiniz/beiniz_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788987625749~hmac=43495e04dc4fbf6e54f97d914a73cc7868f624040d39e2b8c81ee42866370047/bc/beiniz/beiniz_fmp4.isml/playlist.mpd
 https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788893346~exp=1788914946~acl=/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788904188280~hmac=936b0c6d86261e3b1a19d1c25e40e46e7c3d68a01aa628b19f1b72ae099eedd7/bc/beiniz/beiniz_fmp4.isml/playlist.mpd
-#EXTINF:-1 tvg-name="TRT 1" group-title="Türkiye",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1,STAR TV
@@ -319,7 +320,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 Yedek="https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8" Yedek2="https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8" Yedek3="" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 Yedek="https://tv.arectv3.xyz/live/tv85.m3u8" Yedek2="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8" Yedek3="http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test" Yedek4="https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Spor",TV 8.5
+#EXTINF:-1 Yedek="https://tv.arectv3.xyz/live/tv85.m3u8" Yedek2="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8" Yedek3="http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test" Yedek4="https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="SPOR",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -351,9 +352,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSPOR.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSPORYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8

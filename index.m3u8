@@ -13,13 +13,12 @@ https://corestream.ardastream.live//tabii1/tracks-v1a1/mono.m3u8
 https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
 https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat Wild
-https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789063879~exp=1789085479~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789074678255~hmac=fca26cbd6e46ec77a546f6ce9fa16edb074adb26bdef9c7682618b054d80e9dd/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
+https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789229575~exp=1789251175~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789240375586~hmac=7d709d1a5c91b1b6a3e99bf23a4ae2a18419b58e3fda72b7556b99acadf69ff3/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1172121&extension=m3u8
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat
-https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=buyGARkafQPCQfkkP86vgg&e=1789150325&userid=md99849202
+https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=FeteGCFnrXTCnX6ilgCabA&e=1789316037&userid=md99849202
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Bbc Earth
-https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=DUtwplfrmLKUpI_7XAqwsQ&e=1789063142&userid=md99849202
-https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=6mslINh9bYR5JTDUEP6isw&e=1788979608&userid=md99849202
+https://dt-live-bc.lg.mncdn.com/bc/bbcearth/bbcearth_fmp4.isml/playlist.mpd?st=Yqd3AU6kgw4bl3orIw8peQ&e=1789316060&userid=md99849202
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Bein iz
 https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788976781~exp=1788998381~acl=*/bc/beiniz/beiniz_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788987625749~hmac=43495e04dc4fbf6e54f97d914a73cc7868f624040d39e2b8c81ee42866370047/bc/beiniz/beiniz_fmp4.isml/playlist.mpd
 https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1788893346~exp=1788914946~acl=/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1788904188280~hmac=936b0c6d86261e3b1a19d1c25e40e46e7c3d68a01aa628b19f1b72ae099eedd7/bc/beiniz/beiniz_fmp4.isml/playlist.mpd

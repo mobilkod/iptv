@@ -5,7 +5,8 @@ https://corestream.d72377a9ds0ec71.cfd//hls/bein1.m3u8
 https://leq.zirvedesin243.cfd/zirve/mono.m3u8
 #EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein Test
 https://e-aga-m.943411d29aa8b67a6485827229af8b16.sbs/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8?verify=1789337064340~2a00%3A1d34%3A2a80%3Aa800%3Ab911%3Acf89%3A212a%3A78e~407a67f894fd8f41c2a59f5784653da2
-
+#EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein Patron
+https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein 3
 https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="tabii1" group-title="SPOR",tabii1

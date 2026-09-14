@@ -1,24 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein 1
-https://corestream.d72377a9ds0ec71.cfd//hls/bein1.m3u8
-#EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein Zirve
-https://leq.zirvedesin243.cfd/zirve/mono.m3u8
-#EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein Patron
-https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
+https://ladyboy.taylandpattaya.cfd//hls/bein1.m3u8
 #EXTINF:-1 tvg-name="Bein" group-title="SPOR",Bein 3
-https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
+https://ladyboy.taylandpattaya.cfd//bein3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="tabii1" group-title="SPOR",tabii1
-https://corestream.d72377a9ds0ec71.cfd//tabii1/tracks-v1a1/mono.m3u8
+https://ladyboy.taylandpattaya.cfd//tabii1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="s-sport" group-title="SPOR",s-sport
-https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
-
-
+https://ladyboy.taylandpattaya.cfd//s-sport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat Wild
 https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789229575~exp=1789251175~acl=*/bc/natgeowild/natgeowild_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789240375586~hmac=7d709d1a5c91b1b6a3e99bf23a4ae2a18419b58e3fda72b7556b99acadf69ff3/bc/natgeowild/natgeowild_fmp4.isml/playlist.mpd
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1172121&extension=m3u8
-#EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat Wild 2
-http://3kploxgs6318399p.2without.alpinosia456.com/live/play/ZFdrMFQydEhhbTVOYjBwSU5rcEpUV1owTm5CdlNGQjBOelo0TWpsWFRsazVZekJ0VFRWdVUzTlRaejA9/65316
 #EXTINF:-1 tvg-name="wild" group-title="Ulusal",Neo Gat
 https://dt-live-bc.lg.mncdn.com/bc/natgeo/natgeo_fmp4.isml/playlist.mpd?st=FeteGCFnrXTCnX6ilgCabA&e=1789316037&userid=md99849202
 

@@ -11,6 +11,9 @@ https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789491746~exp=1789513346~acl=*/
 #EXTINF:-1 tvg-name="wild" group-title="Belgesel",Discovery Channel
 https://dt-live-bc.akamaized.net/bc/discch/discch_fmp4.isml/playlist.mpd?hdnts=ip=85.98.20.117~st=1789326429~exp=1789499229~acl=*/bc/discch/discch_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789423628776~hmac=30f81ca141eef33d64ed4b8bd85145dc3d8657551de2a461caafcbd31b64c17d
 
+#EXTINF:-1 tvg-name="wild" group-title="Belgesel",Bein İz
+https://dt-live-bc-bytpls.dtvcdns.com/hdntl=iat=1789499133~exp=1789520733~acl=*/bc/beiniz/beiniz_fmp4.isml/*~id=ac987114e2-9c6d-fa94-2be8-bd799958dc59_1789509933269~hmac=f1109e0be49f98103225c4e244fdd0cbc4646f5931b257fe4fee90afe9cd4504/bc/beiniz/beiniz_fmp4.isml/playlist.mpd
+
 
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8

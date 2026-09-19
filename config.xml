@@ -22,7 +22,9 @@
         install-location="auto"
         hwkey-event="enable"
         rendering-engine="gpu"
+        pointing-device-support='disable' 
     />
+
 
     <tizen:application
         id="Vk7ES0fDwd.iptv"

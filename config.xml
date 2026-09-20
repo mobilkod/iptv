@@ -31,8 +31,7 @@
         package="Vk7ES0fDwd"
         required_version="2.3"/>
 
-    <!-- Samsung TV -->
-    <tizen:profile name="tv-samsung"/>
+    <tizen:profile name="tv"/>
 
     <!-- Network -->
     <access origin="*" subdomains="true"/>

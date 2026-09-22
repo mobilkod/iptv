@@ -119970,7 +119970,7 @@ static constexpr std::array<uint8_t, 910> kPacketData207 = {
     0x0a, 0x78, 0x75, 0xcc, 0x00, 0x00
   };  // kPacketData207
 
-constexpr const auto kVideoPackets = std::array<
+const auto kVideoPackets = std::array<
     samsung::wasm::ElementaryMediaPacket, 208>{
   samsung::wasm::ElementaryMediaPacket{
     samsung::wasm::Seconds{ 0.000000 },
